@@ -1,0 +1,8 @@
+package headfirst.observer.weather;
+
+public interface Subject {
+  public void registerObserver(Observer o);
+  public void removerObserver(Obsever o);
+  public void notifyObservers();
+  
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="../../../../classes/" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="StatisticsDisplay.java" package="headfirst.designpatterns.observer.weather" timestamp="03-Apr-2017 14:44:51">
+        <select from="17" to="17"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Observer.java" package="headfirst.observer.weather" timestamp="03-Apr-2017 13:44:37">
+        <select from="17" to="17"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="DisplayElement.java" package="headfirst.observer.weather" timestamp="03-Apr-2017 14:24:19">
+        <select from="17" to="17"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Subject.java" package="headfirst.observer.weather" timestamp="03-Apr-2017 14:26:41">
+        <select from="17" to="17"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="WeatherData.java" package="headfirst.observer.weather" timestamp="03-Apr-2017 14:28:16">
+        <select from="17" to="17"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CurrentConditionsDisplay.java" package="headfirst.observer.weather" timestamp="03-Apr-2017 14:29:07">
+        <select from="17" to="17"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="WeatherStation.java" package="headfirst.observer.weather" timestamp="03-Apr-2017 14:35:15">
+        <select from="17" to="17"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="ForecastDisplay.java" package="headfirst.designpatterns.observer.weather" timestamp="03-Apr-2017 14:44:51">
+        <select from="17" to="17"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

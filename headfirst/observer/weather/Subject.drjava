@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="../../../../classes/" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Subject.java" package="headfirst.observer.weather" timestamp="03-Apr-2017 13:43:21">
+        <select from="95" to="95"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
