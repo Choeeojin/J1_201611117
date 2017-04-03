@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="../../../../classes/" main="gui1.drjava" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="CalcAreaGUIMain.java" package="com.sd.gui" timestamp="28-Mar-2017 15:48:50">
+        <select from="537" to="537"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="gui1.java" package="com.sd.gui" timestamp="28-Mar-2017 15:46:47">
+        <select from="537" to="537"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
