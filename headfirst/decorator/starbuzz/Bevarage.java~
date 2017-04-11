@@ -1,0 +1,9 @@
+package headfirst.decorator.starbuzz;
+
+public class Bevarage {
+  String description = "Unknown beverage";
+  public String getDescription() {
+    return description 
+  }
+  public abstract cost();
+}

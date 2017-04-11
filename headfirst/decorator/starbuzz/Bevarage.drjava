@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="../../../../classes/headfirst/" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="HouseBlend.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 14:42:52">
+        <select from="38" to="38"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Bevarage.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 14:23:54">
+        <select from="38" to="38"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CondimentDecorator.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 14:29:18">
+        <select from="38" to="38"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Mocha.java" package="headfirst.decorator.starbuzz" timestamp="10-Apr-2017 14:38:26">
+        <select from="38" to="38"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
