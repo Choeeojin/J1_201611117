@@ -1,0 +1,25 @@
+package com.sd.dao.v1;
+
+public class PersonDaolmpl implements PersonDao {
+  public PersonDaolmpl() {
+    List<Person> persons = new ArrayList<Person>();
+    Person p1 = new Person(0,"v1-0");
+    Person p1 = new Person(1,"v1-1");
+    persons.add(p1);
+    persons.add(p1);
+  }
+  
+  public List<Person> getAllPersons() {
+    return persons;
+  }
+  public Person getPerson(int id) {
+    return persons.get(id);
+  }
+  public void updatePerson(Person p) {
+    persons.get(p.getId()).setName(p.getName());
+  }
+  
+  public void deletePerson() {
+    persons.remove(p.getId());
+  }
+}
