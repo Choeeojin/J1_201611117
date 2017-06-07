@@ -1,0 +1,25 @@
+package com.sd.myFile;
+
+import java.io.FileInputStream;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.BufferedReader;;
+import java.io.Reader;
+import java.io.File;
+
+public class FileDemoMain {
+  public static void main(String[] args) {
+    File readme = null;
+    FileInputStream isReadme = null;
+    InputStreamReader isReadme = null;
+    
+    try {
+      String cwd = new File(".").getCanonicalPath();
+      readme = new File(cwd,"파일명 적기");
+      isReadme = new FileInputStream(readme);
+      InputStreamReader(isReadme,"UTF8");
+    } catch(Exception e) {
+    } finally {
+    }
+  } 
+}  
